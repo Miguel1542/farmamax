@@ -1,5 +1,4 @@
-
-  figure:before {
+figure:before {
     z-index: 3;
     mix-blend-mode: normal;
     box-shadow: 0 0 250px brown inset;
@@ -12,83 +11,7 @@
     box-shadow: 0 0 150px pink inset;
     background: rgba(198, 155, 0, 0.3);
   }
-  /*
-  .boton_1{
-    text-decoration: none;
-    padding: 3px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-inline-start: 30px;
-    padding-inline-start: 15px;
-    position: relative;
-    font-family: helvetica;
-    font-weight: 250;
-    font-size: 15px;
-    font-style: italic;
-    color: #0A0909;
-    background-color: #CF1717;
-    border-radius: 15px;
-    border: 5px double #0A0909;
-    bottom: -20px;
-  }
-  .boton_1:hover{
-    opacity: 0.6;
-    text-decoration: none;
-    text-align: right;
-   
-  }
-  .boton_2{
-    text-decoration: none;
-    padding: 3px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-inline-start: 30px;
-    padding-inline-start: 15px;
-    position: relative;
-    font-family: helvetica;
-    font-weight: 250;
-    font-size: 15px;
-    font-style: italic;
-    color: #0A0909;
-    background-color: #CF1717;
-    border-radius: 15px;
-    border: 5px double #0A0909;
-    bottom: -40px;
-  }
-  .boton_2:hover{
-    opacity: 0.6;
-    text-decoration: none;
-    text-align: left;
-   
-  }
-  .boton_3{
-    text-decoration: none;
-    padding: 3px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-inline-start: 30px;
-    padding-inline-start: 15px;
-    position: relative;
-    font-family: helvetica;
-    font-weight: 250;
-    font-size: 15px;
-    font-style: italic;
-    color: #0A0909;
-    background-color: #CF1717;
-    border-radius: 15px;
-    border: 5px double #0A0909;
-    bottom: -60px;
-  }
-  .boton_3:hover{
-    opacity: 0.6;
-    text-decoration: none;
-    text-align: justify;
-    text-align: start;
-  }
-    */
+  
   td 
             {
                 border: 1px solid black; 
@@ -203,7 +126,7 @@
          
         @keyframes Banner {
           0%, 30%{
-                 background-image: url(imagenes/fluconazol.jpg);
+                 background-image: url(fluconazol.jpg);
                  opacity: 1;
                 }
               35%, 34%{
@@ -211,7 +134,7 @@
                 }
         
             35%, 65%{
-            background-image: url(imagenes/biotina.jpg);
+            background-image: url(biotina.jpg);
             opacity: 1;  
             }
             66%, 69%{
@@ -219,7 +142,7 @@
              }
              70%, 100%{
                opacity: 1;;
-              background-image: url(imagenes/colageno.jpg);
+              background-image: url(colageno.jpg);
              }          
         
         
@@ -242,7 +165,7 @@
        
       @keyframes Banner1 {
         0%, 30%{
-               background-image: url(imagenes/imagenpagina.png);
+               background-image: url(imagenpagina.png);
                opacity: 1;
               }
             35%, 34%{
@@ -250,7 +173,7 @@
               }
       
           35%, 65%{
-          background-image: url(imagenes/peso.jpg);
+          background-image: url(peso.jpg);
           opacity: 1;  
           }
           66%, 69%{
@@ -258,7 +181,7 @@
            }
            70%, 100%{
              opacity: 1;;
-            background-image: url(imagenes/cipro.jpg);
+            background-image: url(cipro.jpg);
            }          
       
       
@@ -282,7 +205,7 @@
      
     @keyframes Banner2 {
       0%, 30%{
-             background-image: url(imagenes/bebes.jpg);
+             background-image: url(bebes.jpg);
              opacity: 1;
             }
           35%, 34%{
@@ -290,7 +213,7 @@
             }
     
         35%, 65%{
-        background-image: url(imagenes/bebes1.jpg);
+        background-image: url(bebes1.jpg);
         opacity: 1;  
         }
         66%, 69%{
@@ -298,7 +221,7 @@
          }
          70%, 100%{
            opacity: 1;;
-          background-image: url(imagenes/bebes2.jpg);
+          background-image: url(bebes2.jpg);
          }          
     
     
